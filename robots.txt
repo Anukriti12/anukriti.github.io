@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://jivatneet.github.io/sitemap.xml
+Sitemap: https://anukriti12.github.io/sitemap.xml

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anukriti Kumar</title>
-    <link>https://jivatneet.github.io/</link>
-      <atom:link href="https://jivatneet.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://anukriti12.github.io/</link>
+      <atom:link href="https://anukriti12.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Anukriti Kumar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Anukriti Kumar 2022</copyright><lastBuildDate>Sun, 17 Jul 2022 22:43:22 +0530</lastBuildDate>
     <image>
-      <url>https://jivatneet.github.io/images/favicon-512x512.png</url>
+      <url>https://anukriti12.github.io/images/favicon-512x512.png</url>
       <title>Anukriti Kumar</title>
-      <link>https://jivatneet.github.io/</link>
+      <link>https://anukriti12.github.io/</link>
     </image>
     
     <item>
       <title>Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization</title>
-      <link>https://jivatneet.github.io/publication/cacm/</link>
+      <link>https://anukriti12.github.io/publication/cacm/</link>
       <pubDate>Sun, 17 Jul 2022 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/cacm/</guid>
+      <guid>https://anukriti12.github.io/publication/cacm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LM-CORE: Language Models with Contextually Relevant External Knowledge</title>
-      <link>https://jivatneet.github.io/publication/knowledgebert/</link>
+      <link>https://anukriti12.github.io/publication/knowledgebert/</link>
       <pubDate>Mon, 11 Jul 2022 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/knowledgebert/</guid>
+      <guid>https://anukriti12.github.io/publication/knowledgebert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modern Baselines for SPARQL Semantic Parsing</title>
-      <link>https://jivatneet.github.io/publication/sigir_sparql/</link>
+      <link>https://anukriti12.github.io/publication/sigir_sparql/</link>
       <pubDate>Mon, 11 Jul 2022 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/sigir_sparql/</guid>
+      <guid>https://anukriti12.github.io/publication/sigir_sparql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoSe-Co: Text Conditioned Generative CommonSense Contextualizer</title>
-      <link>https://jivatneet.github.io/publication/coseco/</link>
+      <link>https://anukriti12.github.io/publication/coseco/</link>
       <pubDate>Sun, 10 Jul 2022 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/coseco/</guid>
+      <guid>https://anukriti12.github.io/publication/coseco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ask &amp; Explore: Grounded Question Answering for Curiosity-driven exploration</title>
-      <link>https://jivatneet.github.io/publication/iclr-eml/</link>
+      <link>https://anukriti12.github.io/publication/iclr-eml/</link>
       <pubDate>Fri, 21 May 2021 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/iclr-eml/</guid>
+      <guid>https://anukriti12.github.io/publication/iclr-eml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning EEG Response Representation for BCI</title>
-      <link>https://jivatneet.github.io/project/bci/</link>
+      <link>https://anukriti12.github.io/project/bci/</link>
       <pubDate>Thu, 10 Dec 2020 20:19:43 +0530</pubDate>
-      <guid>https://jivatneet.github.io/project/bci/</guid>
+      <guid>https://anukriti12.github.io/project/bci/</guid>
       <description>&lt;p&gt;Built a multi-scale deep CNN architecture using Keras to learn Deep Motor Features for brain computer
 interface with imagined motor tasks in BCI - EEG motor activity dataset.&lt;/p&gt;
 </description>
@@ -64,41 +64,41 @@ interface with imagined motor tasks in BCI - EEG motor activity dataset.&lt;/p&g
     
     <item>
       <title>Socket Programming</title>
-      <link>https://jivatneet.github.io/project/socketprog/</link>
+      <link>https://anukriti12.github.io/project/socketprog/</link>
       <pubDate>Thu, 10 Dec 2020 01:26:42 +0530</pubDate>
-      <guid>https://jivatneet.github.io/project/socketprog/</guid>
+      <guid>https://anukriti12.github.io/project/socketprog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVINFO Application</title>
-      <link>https://jivatneet.github.io/project/covinfo/</link>
+      <link>https://anukriti12.github.io/project/covinfo/</link>
       <pubDate>Thu, 10 Dec 2020 00:33:27 +0530</pubDate>
-      <guid>https://jivatneet.github.io/project/covinfo/</guid>
+      <guid>https://anukriti12.github.io/project/covinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Named entity recognition (NER)</title>
-      <link>https://jivatneet.github.io/project/ner/</link>
+      <link>https://anukriti12.github.io/project/ner/</link>
       <pubDate>Thu, 10 Dec 2020 00:24:41 +0530</pubDate>
-      <guid>https://jivatneet.github.io/project/ner/</guid>
+      <guid>https://anukriti12.github.io/project/ner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiler Design for a Custom Language</title>
-      <link>https://jivatneet.github.io/project/compiler/</link>
+      <link>https://anukriti12.github.io/project/compiler/</link>
       <pubDate>Thu, 10 Dec 2020 00:05:23 +0530</pubDate>
-      <guid>https://jivatneet.github.io/project/compiler/</guid>
+      <guid>https://anukriti12.github.io/project/compiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation and Selection of Detumbling Algorithms for a 3U CubeSat</title>
-      <link>https://jivatneet.github.io/publication/bdot/</link>
+      <link>https://anukriti12.github.io/publication/bdot/</link>
       <pubDate>Mon, 21 Oct 2019 22:43:22 +0530</pubDate>
-      <guid>https://jivatneet.github.io/publication/bdot/</guid>
+      <guid>https://anukriti12.github.io/publication/bdot/</guid>
       <description></description>
     </item>
     
